@@ -1,1 +1,1 @@
-<h1 style='color: green'>Zombie Knight</h1>
+<h1 styles="color: green">Zombie Knight</h1>
